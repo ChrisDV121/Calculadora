@@ -1,3 +1,4 @@
 * linguist-vendored
 *.CSS linguist-vendored=false
 *.HTML linguist-vendored=false
+*.javaScript linguist-detectable=true
